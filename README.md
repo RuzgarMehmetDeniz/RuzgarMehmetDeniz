@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Ruzgar Deniz</h1>
 <h3 align="center">🌟 Jr. Full Stack & Backend Developer 🌟</h3>
 
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=RuzgarMehmetDeniz&label=Profile%20views&color=0e75b6&style=flat" alt="RuzgarMehmetDeniz" /> 
 </p>
