@@ -46,12 +46,8 @@
 </p>
 
 <br>
-
-
 </p>
-
 <br>
-  
 <table border="0" align="center">
   <tr>
     <td width="50%" align="center">
